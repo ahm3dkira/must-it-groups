@@ -1,0 +1,398 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100;300;400;700&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+:root {
+  --background: #fff;
+  --cards: #cee;
+  --text: #000;
+}
+
+body.theme-lightmode {
+  --background: #fff;
+  --cards: #cee;
+  --text: #000;
+}
+body.theme-darkmode {
+  --background: #000;
+  --cards: #444;
+  --text: #fff;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Antonio", sans-serif;
+}
+body {
+  background-color: var(--background);
+}
+h1 {
+  color: var(--text);
+  font-size: 40px;
+  font-weight: 600;
+}
+h3 {
+  color: var(--text);
+  text-align: center;
+  font-weight: 600;
+  margin: 10px 0;
+}
+p {
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  padding: 10px;
+}
+.row {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.container-2 {
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  grid-gap: 30px;
+  padding: 15px;
+}
+.container-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 30px;
+  padding: 15px;
+}
+.my-section {
+  min-height: 100vh;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+/* header section */
+
+.hero-btn {
+  /* display: inline-block; */
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 13px 34px;
+  font-size: 16px;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 2px 12px;
+}
+.hero-btn:hover {
+  border: 1px solid var(--cards);
+  background: var(--background);
+  transition: 0.3s;
+}
+.hero-btn .fa {
+  margin: 0 4px;
+}
+.gray-btn {
+  border: 2px solid white;
+  /* background: transparent; */
+  color: #3c415c;
+}
+
+.gray-btn:hover {
+  color: #fff;
+}
+
+/*************header**************************************************/
+
+:root {
+  --nav_link_under_line: #2873cf;
+}
+header i.fa.fa-moon-o {
+  font-size: 26px;
+}
+body.theme-darkmode header i.fa.fa-moon-o {
+  color: #fff;
+}
+body.theme-lightmode header i.fa.fa-moon-o {
+  color: #000;
+}
+header .fa {
+  /* color: #e94560; */
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+header .min-header {
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+header .min-header h1 {
+  margin-top: 20px;
+}
+header nav {
+  display: flex;
+  padding: 1% 4%;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav img {
+  width: 43px;
+}
+header .nav-links {
+  flex: 1;
+  text-align: right;
+}
+header .nav-links ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position: relative;
+}
+header .nav-links ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+}
+header .nav-links ul li::after {
+  content: "";
+  width: 0%;
+  height: 2px;
+  background: var(--nav_link_under_line);
+  display: block;
+  margin: auto;
+  transition: 0.5s;
+}
+header .nav-links ul li:hover::after {
+  width: 100%;
+}
+header nav i.fa.fa-bars,
+nav i.fa.fa-times {
+  display: none;
+}
+body.theme-darkmode header h1,
+body.theme-darkmode header p,
+body.theme-darkmode header h3,
+body.theme-darkmode header a {
+  color: #fff !important;
+}
+body.theme-lightmode header h1,
+body.theme-lightmode header p,
+body.theme-lightmode header h3,
+body.theme-lightmode header a {
+  color: #000 !important;
+}
+@media (max-width: 750px) {
+  header .nav-links ul li {
+    display: block;
+  }
+  header .nav-links {
+    position: fixed;
+    background: var(--background); /*#000000;*/
+    height: 100vh;
+    width: 200px;
+    top: 0;
+    right: -200px;
+    text-align: left;
+    z-index: 2;
+    transition: 0.7s;
+    color: var(--text);
+  }
+  header nav i.fa.fa-bars,
+  header nav i.fa.fa-times {
+    display: block;
+    color: var(--text);
+    margin: 10px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  header .nav-links ul {
+    padding: 30px;
+  }
+
+  header .min-header h1 {
+    font-size: 24px;
+  }
+}
+
+/***************************************************************/
+
+/* course section */
+.courses {
+  padding-top: 10px;
+  color: var(--text);
+}
+
+.courses .course-col {
+  flex-basis: 31%;
+  background: var(--cards);
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+
+.course-col:hover {
+  box-shadow: 0 0 20px 0px var(--text);
+}
+.courses h1 {
+  margin: 10px;
+}
+.courses p {
+  margin: 10px;
+}
+
+/* other section */
+.other {
+  padding-top: 120px;
+}
+.other-col {
+  flex-basis: 32%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  text-align: left;
+}
+
+.other-col img {
+  width: 100%;
+  border-radius: 10px;
+}
+.other-col p {
+  padding: 0;
+}
+
+.other-col h3 {
+  margin-top: 16px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+/* footer */
+
+.about-us {
+  width: 80%;
+  margin: auto;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.about-col {
+  flex-basis: 48%;
+  padding: 30px 2px;
+}
+.about-col img {
+  width: 100%;
+}
+.about-col h1 {
+  padding-top: 0;
+}
+.about-col p {
+  padding: 15px 0 25px;
+}
+
+#group-container a {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#group-container .one-course {
+  color: #717171;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  padding: 15px;
+}
+
+#group-container .one-course .one-link {
+  /* border: ; */
+  color: #717171;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  padding: 10px;
+}
+/* .cfl-logo {
+  border-radius: 50%;
+} */
+@media (max-width: 1200px) {
+  .container-3 {
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    grid-gap: 30px;
+    padding: 15px;
+  }
+}
+
+@media (max-width: 750px) {
+  p {
+    font-size: 13px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  .row {
+    flex-direction: column;
+  }
+  .container-2,
+  .container-3 {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  /* .container-2 */
+  /* header section */
+  .text-box h1 {
+    font-size: 24px;
+  }
+
+  /* testimonials section */
+  .testimonials-col img {
+    margin-left: 0px;
+    margin-right: 15px;
+  }
+  /* cta */
+  .cta h1 {
+    font-size: 24px;
+  }
+  /* msg */
+  .msg-form button {
+    margin: 10px 0;
+  }
+}
+
+/***************************************************************/
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+}
+footer h4 {
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+footer .icons .fa {
+  color: #e94560;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+footer .fa-heart-o {
+  color: #e94560;
+}
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5%;
+}
+footer .container p {
+  text-align: justify;
+  padding: 0 3%;
+}
+footer .cfl-logo {
+  border-radius: 50%;
+}

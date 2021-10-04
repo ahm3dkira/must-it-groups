@@ -1,0 +1,340 @@
+{
+    "general": {
+        "links": []
+    },
+    "links": [
+        {
+            "code": "ENG099",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ENG101",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ENG102",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ENG201",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/BsnLttlHDVUDW3EFFAU7BR"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ICDL",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/KOiLwWkmr8AKUIjW9wLfvC"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "PHY101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/JLTYew6i6knBk3s98D0O8w"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "PHY102",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ECE202",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/C518Z0QPWL2LuEkcVnCAg5"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "ECE210",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/CttG0TzF8FL4nZZF56WmPv"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "MATH101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "MATH102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/Khmek6f7ydHGKvVK0gO8Ty"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "MATH251",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/IMj1LLE7yN0Kwi0VYzwC0l"
+                },
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "note": "#2",
+                    "url": "https://chat.whatsapp.com/DegrhEPyFhiH1Zc0VhjJZ6"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "MATH241",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "MATH301",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/FvEBVNH5dPOBOi1VhcH1dp"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": "https://www.facebook.com/groups/163120002405247"
+                }
+            ]
+        },
+        {
+            "code": "CS102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS-212",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/KfuorNBuw15HojO9IbeFQG"
+                },
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "note": "2",
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": "https://www.facebook.com/groups/263413422105905/"
+                }
+            ]
+        },
+        {
+            "code": "CS-251",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/JZX1bhtzfWhICTL5x9GKyD"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS352",
+            "name": "?",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "note": null,
+                    "url": "https://chat.whatsapp.com/LLKphdABMBeDHFzkZmJJO3"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "IS231",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/KV0YoVNh9xxCMtfTAx7Ikg"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS_321_MUST_SUMMER_2021",
+            "url": [
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": "https://www.facebook.com/groups/1180647389103293"
+                }
+            ]
+        },
+        {
+            "code": "CS_331_MUST_SUMMER_2021",
+            "url": [
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": "https://www.facebook.com/groups/369830981178733"
+                }
+            ]
+        },
+        {
+            "code": "CS_361_MUST_SUMMER_2021",
+            "url": [
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": "https://www.facebook.com/groups/199386042055761"
+                }
+            ]
+        }
+    ]
+}
