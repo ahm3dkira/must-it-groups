@@ -30,7 +30,7 @@ function switchColorTheme(){
 function _isEmpty(e) { return !(e == undefined || e == null || e == ''); }
 
 (async () => { // add data
-    const res = await (await fetch(`courses.json`)).json();
+    const res = await (await fetch(`data/courses.json`)).json();
     console.log(res);
     res.links.forEach((e) => {
         if (e.hidden === true) return;

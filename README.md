@@ -1,6 +1,7 @@
 # MUST
 this repo for must website
 
+#### data stored at data/courses.json
 ### course example
 - code: the course code MATH251, CS101, PHY102, extra...
 - url: array of Objects structured as following..

@@ -1,0 +1,234 @@
+{
+    "general": {
+        "links": []
+    },
+    "links": [
+        {
+            "code": "CS-311",
+            "name": "System Programming & Assembly",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/E03RT4MZijwJJ76HEr0wyh"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS-352",
+            "name": "Compiler Design",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/I5NjKe2vPZNKW7AwT7EQQt"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS-381",
+            "name": "Operating System",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/JkcFjDm7x7HCCx4mq8boiI"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS 341",
+            "name": "Software Engineering 1",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/FvpgSj2oCsk1DNdbSXmoL2"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS 331",
+            "name": "Analysis & Design of algorithm",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/FxdIeCBZjth5hjF7OPCEB5"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "IS 321",
+            "name": "System Analysis & Design",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/JbosQ9u1XXdJQjiKIydgW1"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "IS 311",
+            "name": "File Organization",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/LxGyvRp7pvz2zDvDZ1WaMz"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS-211",
+            "name": "Concept of Programming Languages",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/DtBIDEHEOwS11g3hykhSHc"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS-212",
+            "name": "Data Structures",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/IM4nLRT0SS1Ekmex4DFD1i"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "IS 331",
+            "name": "Moddeling & Sumulation",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/LnYco8FPn4a4Y7Gl3grgV3"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS 301",
+            "name": "Data Communication & Network",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/HaCDPiXd8R35HaFcxEK0Qc"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS 251",
+            "name": "Computer Architecture",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/BKIOpUeHwpsHEGQRVevrtN"
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS000",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        },
+        {
+            "code": "CS000",
+            "hidden": true,
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": null
+                },
+                {
+                    "platform": "facebook",
+                    "name": null,
+                    "url": null
+                }
+            ]
+        }
+
+
+
+    ]
+}
