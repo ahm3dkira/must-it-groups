@@ -196,22 +196,6 @@
             ]
         },
         {
-            "code": "CS 251",
-            "name": "Computer Architecture",
-            "url": [
-                {
-                    "platform": "whatsapp",
-                    "name": null,
-                    "url": "https://chat.whatsapp.com/BKIOpUeHwpsHEGQRVevrtN"
-                },
-                {
-                    "platform": "facebook",
-                    "name": null,
-                    "url": null
-                }
-            ]
-        },
-        {
             "code": "CS000",
             "hidden": true,
             "url": [
