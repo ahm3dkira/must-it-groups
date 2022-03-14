@@ -21,7 +21,6 @@
         },
         {
             "code": "phy 101",
-            "name": "Operating System",
             "url": [
                 {
                     "platform": "whatsapp",
@@ -216,13 +215,12 @@
             ]
         },
         {
-            "code": "CS000",
-            "hidden": true,
+            "code": "CS251",
             "url": [
                 {
                     "platform": "whatsapp",
                     "name": null,
-                    "url": null
+                    "url": "https://chat.whatsapp.com/KXq0yfoCsPb53sT2xVxBJo"
                 },
                 {
                     "platform": "facebook",
@@ -232,13 +230,12 @@
             ]
         },
         {
-            "code": "CS000",
-            "hidden": true,
+            "code": "CS483-mulitmedia",
             "url": [
                 {
                     "platform": "whatsapp",
                     "name": null,
-                    "url": null
+                    "url": "https://chat.whatsapp.com/GgDiOU3cyDqKPopK9tRhEg"
                 },
                 {
                     "platform": "facebook",
@@ -248,36 +245,35 @@
             ]
         },
         {
-            "code": "CS000",
-            "hidden": true,
+            "code": "CS409-selected topics in cs",
             "url": [
                 {
                     "platform": "whatsapp",
                     "name": null,
-                    "url": null
-                },
-                {
-                    "platform": "facebook",
-                    "name": null,
-                    "url": null
+                    "url": "https://chat.whatsapp.com/JcxCbr2oBRj37xMYWOdHpR"
                 }
             ]
         },
         {
-            "code": "CS000",
-            "hidden": true,
+            "code": "eng201",
             "url": [
                 {
                     "platform": "whatsapp",
                     "name": null,
-                    "url": null
-                },
-                {
-                    "platform": "facebook",
-                    "name": null,
-                    "url": null
+                    "url": "https://chat.whatsapp.com/CKo9bKZv28G3B9Nwwv1C3I"
                 }
             ]
+        },
+        {
+            "code": "CS212 data structure",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/FNJnmp6AcfBCvRCJQpIfxf"
+                }
+            ]
+
         }
 
 
