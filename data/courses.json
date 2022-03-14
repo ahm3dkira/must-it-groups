@@ -172,7 +172,6 @@
         },
         {
             "code": "algorithm",
-            "hidden": true,
             "url": [
                 {
                     "platform": "whatsapp",
@@ -188,7 +187,6 @@
         },
         {
             "code": "ECE210",
-            "hidden": true,
             "url": [
                 {
                     "platform": "whatsapp",
@@ -204,7 +202,6 @@
         },
         {
             "code": "math 301",
-            "hidden": true,
             "url": [
                 {
                     "platform": "whatsapp",
