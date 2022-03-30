@@ -212,10 +212,160 @@
                     "term": "Spring/2022"
                 }
             ]
-
+        },
+        {
+            "code": "CS102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/E8k4bUPeSjR6sONI5Zu2mO",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "math102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/FOqRDxdf8qlInV8lx19uvI",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "math251",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/GQjjbNQ9tKg63vsKCE9PeV",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "is101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/KFYa6tmhosi5Dac1u6L696",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "phy102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/JXzHWhBhOVr21xqcLE7QiJ",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Arab101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/J3ZhGsbgvx6BekophfihwE",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Eng0.99",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/KYp0SMZA9jH1hTQ6tDyxqZ",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Eng101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/BobkKgDNARV4wXtMyvhtA5",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Eng102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/GH7mPXvNM3M4k0pfeZoPfk",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Hum101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/Bcs4Sgh17AeKKDoYdz2pg9",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Hum102",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/HLRYH1zAQHZ9vnQszWj73j",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "Eng0.98",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/ImYyE40uASfKmLlIIWPvB6",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "math101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/BSwI0p58AfY3Zyl6oiPnkE",
+                    "term": "Spring/2022"
+                }
+            ]
+        },
+        {
+            "code": "cs101",
+            "url": [
+                {
+                    "platform": "whatsapp",
+                    "name": null,
+                    "url": "https://chat.whatsapp.com/Fin6bqyUlnV6XM5gI6q912",
+                    "term": "Spring/2022"
+                }
+            ]
         }
-
-
-
     ]
 }
