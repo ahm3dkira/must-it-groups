@@ -21,7 +21,6 @@ function switchColorTheme(){
         bodyDOM.classList.add('theme-darkmode');
         bodyDOM.classList.remove('theme-lightmode');
         document.querySelector('#theme-darkmode').classList.add('active');
-        // document.querySelector('')
         localStorage.setItem('darkmode','true');
     }
 }
