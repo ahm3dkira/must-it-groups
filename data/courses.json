@@ -1,15 +1,11 @@
 {
-    "general": {
-        "links": []
-    },
-    "links": [
+    "data": [
         {
             "code": "CS-352",
             "name": "Compiler Design",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/He5G9M1dcrn5J3q5cLMO9E",
                     "term": "Spring/2022"
                 }
@@ -17,10 +13,9 @@
         },
         {
             "code": "phy 101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/ClzZETpN0CA2QRAzxrHKoQ",
                     "term": "Spring/2022"
                 }
@@ -28,10 +23,9 @@
         },
         {
             "code": "CS301 Data comm. & Network",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/LcnE65q0Ur77AK4XOwfDfr",
                     "term": "Spring/2022"
                 }
@@ -39,10 +33,9 @@
         },
         {
             "code": "CS-311 Assembly",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/DgD8B49c2F25MYMPRmiYwc",
                     "term": "Spring/2022"
                 }
@@ -50,10 +43,9 @@
         },
         {
             "code": "CS312 Modern Dev. Tools",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/BUgyLdlkAf5DH9kjb0DCjS",
                     "term": "Spring/2022"
                 }
@@ -61,10 +53,9 @@
         },
         {
             "code": "CS321 Theory of Comp.",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/EJlNBEkZ7Va8BtdEjjFcRS",
                     "term": "Spring/2022"
                 }
@@ -72,10 +63,9 @@
         },
         {
             "code": "CS361 Introduction to AI",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/FHNuW5SqewpAbYzoPnDfjz",
                     "term": "Spring/2022"
                 }
@@ -83,10 +73,9 @@
         },
         {
             "code": "CS402 Computer Graphics",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/I3MclVrXveU5iIvDcdLPqd",
                     "term": "Spring/2022"
                 }
@@ -94,10 +83,9 @@
         },
         {
             "code": "CS481 Pattern Recognition",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/JXY26f8IHGBE8j8jJG5KKU",
                     "term": "Spring/2022"
                 }
@@ -105,10 +93,9 @@
         },
         {
             "code": "IS231 Operating Research",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/GFCIxxz7z8pBAKfaTTXTSQ",
                     "term": "Spring/2022"
                 }
@@ -116,10 +103,9 @@
         },
         {
             "code": "IS321 Intro. to Database",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/HwnpeYB7Q9a4xjcEcM5LdS",
                     "term": "Spring/2022"
                 }
@@ -127,10 +113,9 @@
         },
         {
             "code": "algorithm",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/Ix3Q4ubBFX9BA226PEfiM5",
                     "term": "Spring/2022"
                 }
@@ -138,10 +123,9 @@
         },
         {
             "code": "ECE210",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/LqzIrtTsTxK7DPpQUcXZeT",
                     "term": "Spring/2022"
                 }
@@ -149,10 +133,9 @@
         },
         {
             "code": "math 301",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/DxaHZnUZJmzFgAZMdPYOS8",
                     "term": "Spring/2022"
                 }
@@ -160,10 +143,9 @@
         },
         {
             "code": "CS251",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/KXq0yfoCsPb53sT2xVxBJo",
                     "term": "Spring/2022"
                 }
@@ -171,10 +153,9 @@
         },
         {
             "code": "CS483-mulitmedia",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/GgDiOU3cyDqKPopK9tRhEg",
                     "term": "Spring/2022"
                 }
@@ -182,10 +163,9 @@
         },
         {
             "code": "CS409-selected topics in cs",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/JcxCbr2oBRj37xMYWOdHpR",
                     "term": "Spring/2022"
                 }
@@ -193,10 +173,9 @@
         },
         {
             "code": "eng201",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/CKo9bKZv28G3B9Nwwv1C3I",
                     "term": "Spring/2022"
                 }
@@ -204,10 +183,9 @@
         },
         {
             "code": "CS212 data structure",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/FNJnmp6AcfBCvRCJQpIfxf",
                     "term": "Spring/2022"
                 }
@@ -215,10 +193,9 @@
         },
         {
             "code": "CS102",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/E8k4bUPeSjR6sONI5Zu2mO",
                     "term": "Spring/2022"
                 }
@@ -226,10 +203,9 @@
         },
         {
             "code": "math102",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/FOqRDxdf8qlInV8lx19uvI",
                     "term": "Spring/2022"
                 }
@@ -237,10 +213,9 @@
         },
         {
             "code": "math251",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/GQjjbNQ9tKg63vsKCE9PeV",
                     "term": "Spring/2022"
                 }
@@ -248,10 +223,9 @@
         },
         {
             "code": "is101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/KFYa6tmhosi5Dac1u6L696",
                     "term": "Spring/2022"
                 }
@@ -259,10 +233,9 @@
         },
         {
             "code": "phy102",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/JXzHWhBhOVr21xqcLE7QiJ",
                     "term": "Spring/2022"
                 }
@@ -270,21 +243,19 @@
         },
         {
             "code": "Arab101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/J3ZhGsbgvx6BekophfihwE",
                     "term": "Spring/2022"
                 }
             ]
         },
         {
-            "code": "Eng0.99",
-            "url": [
+            "code": "Eng099",
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/KYp0SMZA9jH1hTQ6tDyxqZ",
                     "term": "Spring/2022"
                 }
@@ -292,10 +263,9 @@
         },
         {
             "code": "Eng101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/BobkKgDNARV4wXtMyvhtA5",
                     "term": "Spring/2022"
                 }
@@ -303,10 +273,9 @@
         },
         {
             "code": "Eng102",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/GH7mPXvNM3M4k0pfeZoPfk",
                     "term": "Spring/2022"
                 }
@@ -314,10 +283,9 @@
         },
         {
             "code": "Hum101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/Bcs4Sgh17AeKKDoYdz2pg9",
                     "term": "Spring/2022"
                 }
@@ -325,21 +293,19 @@
         },
         {
             "code": "Hum102",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/HLRYH1zAQHZ9vnQszWj73j",
                     "term": "Spring/2022"
                 }
             ]
         },
         {
-            "code": "Eng0.98",
-            "url": [
+            "code": "Eng098",
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/ImYyE40uASfKmLlIIWPvB6",
                     "term": "Spring/2022"
                 }
@@ -347,10 +313,9 @@
         },
         {
             "code": "math101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/BSwI0p58AfY3Zyl6oiPnkE",
                     "term": "Spring/2022"
                 }
@@ -358,10 +323,9 @@
         },
         {
             "code": "cs101",
-            "url": [
+            "groups": [
                 {
                     "platform": "whatsapp",
-                    "name": null,
                     "url": "https://chat.whatsapp.com/Fin6bqyUlnV6XM5gI6q912",
                     "term": "Spring/2022"
                 }

@@ -11,7 +11,20 @@ this repo for must website
 - name: the name of the course
 - url: the url of the course
 - note: the note of the course
+```
+// ---- course ----
+// "code": "CS-352",
+// "name": "Compiler Design",
+// "groups": [group1, group2, group3],
 
+// ----- group -----
+// "platform": "whatsapp",
+// "note": "#2",
+// "url": "https://chat.whatsapp.com/He5G9M1dcrn5J3q5cLMO9E",
+// "term": "Spring/2022"
+
+// ------ end ------
+```
 ``` json
 {
     

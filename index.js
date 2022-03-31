@@ -30,16 +30,28 @@ function switchColorTheme(){
 function _isEmpty(e) { return !(e == undefined || e == null || e == ''); }
 
 (async () => { // add data
-    const res = await (await fetch(`data/courses.json`)).json();
-    console.log(res);
-    res.links.forEach((e) => {
+    const data = (await (await fetch(`data/courses.json`)).json()).data;
+    console.log(data);
+    data.forEach((e) => {
         if (e.hidden === true) return;
         var one_course = "";
-        e.url.forEach((ee) => {
-            if (ee.url == undefined || ee.url == null || ee.url == "") return;
+        e.groups.forEach((group) => {
+            if (group.url == undefined || group.url == null || group.url == "") return;
+            const url = new URL(group.url);
+
+            let platform = "whatsapp";
+            if (url.host.includes('whatsapp')) {
+                platform = 'whatsapp';
+            } else if (url.host.includes('facebook')) {
+                platform = 'facebook';
+            } else{
+                console.error(url.host);
+            }
+
+    
             one_course += `<div class="one-link hero-btn gray-btn">
-            <a href="${ee.url}" target="_blank">
-            <i class="fa fa-${ee.platform}"></i>${ee.platform} ${!_isEmpty(ee.note) ? "" : "(" + ee.note + ")"}</a> 
+            <a href="${group.url}" target="_blank">
+            <i class="fa fa-${platform}"></i>${platform} ${!_isEmpty(group.note) ? "" : "(" + group.note + ")"}</a> 
             </div>`;
         });
         document.querySelector("#group-container").innerHTML += `<div class="course-col">
